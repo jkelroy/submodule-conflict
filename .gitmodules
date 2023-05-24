@@ -1,0 +1,3 @@
+[submodule "vscode-sshfs"]
+	path = vscode-sshfs
+	url = https://github.com/SchoofsKelvin/vscode-sshfs.git
